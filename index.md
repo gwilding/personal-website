@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Hi, I'm Georg, I'm currently finishing my PhD.
