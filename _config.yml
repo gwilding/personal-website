@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,9 +26,13 @@ projects:
     archived: false
     forks: true
     projects:
+     - gwilding.github.io
+     - personal-homepage
     # - repo-name
 
-# social_media:
+social_media:
+  linkedin: georg-wilding
+  website: gwilding.github.io
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
