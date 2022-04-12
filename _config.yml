@@ -5,6 +5,11 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
 
 permalink: /:year/:month/:day/:title/
 
