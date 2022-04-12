@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /about/pub
+permalink: /about/pub.md
 ---
 
 # Publications
