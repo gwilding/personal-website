@@ -37,7 +37,7 @@ projects:
     # - repo-name
 
 include:
-  - _includes
+  - pub.md
 
 social_media:
   linkedin: georg-wilding
