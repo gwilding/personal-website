@@ -1,8 +1,3 @@
----
-layout: page
-title: Publications
----
-
 # Publications
 
 Persistent homology of the cosmic web – I. Hierarchical topology in ΛCDM cosmologies
