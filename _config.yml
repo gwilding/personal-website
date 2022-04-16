@@ -36,6 +36,9 @@ projects:
      - personal-website-minimal
     # - repo-name
 
+include:
+  - _includes
+
 social_media:
   linkedin: georg-wilding
   website: gwilding.github.io
