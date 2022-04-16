@@ -1,6 +1,8 @@
 layout: sidebar
 style: dark
 
+show_downloads: false
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
